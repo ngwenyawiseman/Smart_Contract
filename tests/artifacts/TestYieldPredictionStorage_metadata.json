@@ -1,0 +1,76 @@
+{
+	"compiler": {
+		"version": "0.8.17+commit.8df45f5f"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "beforeEach",
+				"outputs": [],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			},
+			{
+				"inputs": [],
+				"name": "testStorePredictionRequest",
+				"outputs": [],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"tests/TestYieldPredictionStorage.sol": "TestYieldPredictionStorage"
+		},
+		"evmVersion": "london",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/YieldPredictionStorage.sol": {
+			"keccak256": "0x17ee01efee86163650b4cd9c1657b4ab76428c138a0cae97ce4a1e60f254b4bf",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://18e50d6d67569f62421809b1565ae644b3b4cc7dfeb9310c3a6279b935e5c1ed",
+				"dweb:/ipfs/QmU8mKJTWjHeBxinsaBrDWk4m65D2gD7NeYbgum9hVeAyn"
+			]
+		},
+		"remix_tests.sol": {
+			"keccak256": "0xe2783cdc204cba8c72494119339f1d90f9022b15d6c718c668b7f097d8e29787",
+			"license": "GPL-3.0",
+			"urls": [
+				"bzz-raw://bb6a22e64c7f16bcaab63b1c1a1b269d5be8a6d37bdd9dec1718477ab916b18e",
+				"dweb:/ipfs/QmdkW1tT5iadBvaHMCoskhDGZKnfdg8o1D9CcoQYtdJet7"
+			]
+		},
+		"tests/TestYieldPredictionStorage.sol": {
+			"keccak256": "0xa381d87694dd17a28be954f34e6cc773b4b94c74ea44f8837ab42b9aedeefcfc",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://ae9924312291175e414436477a81b8621805a9006c9ad45b1c347e2ea93397e9",
+				"dweb:/ipfs/QmbHidiVxDzj8c8cQxpVzEGqmcG358PF127QzaRZNoeRVi"
+			]
+		}
+	},
+	"version": 1
+}
